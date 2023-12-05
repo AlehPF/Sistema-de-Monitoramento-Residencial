@@ -59,9 +59,11 @@ O código fonte está organizado da seguinte maneira:
 - O sensor de gás é monitorado para detecção de gás no ambiente.
 - O LCD e o LED são usados para fornecer feedback visual sobre o estado do sistema.
 
---- 
+## Universidade Federal de Santa Catarina*
 
-**Universidade Federal de Santa Catarina**  
-Curso: Engenharia de Computação  
-Disciplina: Microprocessadores e Microcontroladores
-Professora: Rodrigo Vinícius Mendonça Pereira
+
+Curso: Engenharia de Computação.  
+
+Disciplina: Microprocessadores e Microcontroladores.
+
+Professor: Rodrigo Vinícius Mendonça Pereira.
