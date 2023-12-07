@@ -1,4 +1,4 @@
-# Sistema de Monitoramento Residencial
+# Projeto de Sistema de Monitoramento Residencial (UFSC)
 
 Este repositório contém o código-fonte para um projeto de Sistema de Monitoramento Residencial desenvolvido como parte da disciplina de Microprocessadores e Microcontroladores na Universidade Federal de Santa Catarina - UFSC.
 
